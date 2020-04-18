@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image:url('111.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+ul.list {
+    
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: auto;
+    background-color: rgb(26, 73, 26);
+  }
+
+
+  
+  .activelist{
+    background-color: rgb(90, 73, 73);
+  }
+  
+  li a:hover {
+    background-color: #7a4545;
+  }
+
+  p.yazi{
+      margin: 10px auto;
+      text-align: center;
+      font-weight: bolder;
+      font-size: 36px;
+  }
+
+  .hop{
+      text-align: center;
+      color: cornflowerblue;
+      font-size: 45px;
+      font-weight: 15px;
+  }
+
+  .spor{
+    text-align: center;
+  }
+
+  img.hakkimda{
+    margin: 40px;
+    border-radius: 50%;
+  }
+
+img.sehrim{
+    max-width: 100%;
+}
+
+  .text{
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+    text-align: justify; 
+  }
+
+  .carousel-inner img {
+    width: 100%;
+
+  }
+
+  .sehrimYazi{
+      font-size: 18px;
+      font-family: none;
+      margin: 20px;
+      text-align: justify;
+  }
+
+  .iletisim{
+    border: 5px solid rgb(173, 46, 46);
+    max-width: 500px;
+    padding: 10px;
+    margin: 10px;
+        
+  }
+
+ .iletisim1{
+     font-family: initial;
+    margin: 0 0 0 10px;
+    font-weight: bold;
+}
+
+h2{
+    margin: 20px;
+    color: midnightblue;
+    font-family:serif;
+    font-weight: bold;
+}
+
+.mirasp{
+    padding: 10px;
+    margin: 10px;
+    text-align: justify;
+}
